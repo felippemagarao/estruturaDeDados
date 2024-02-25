@@ -1,3 +1,5 @@
+//Calcula a potencia de um numero inserindo a base e o expoente
+
 package main
 
 import "fmt"
