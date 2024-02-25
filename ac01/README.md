@@ -1,4 +1,4 @@
-#AC1
+AC1
 Crie uma função calculaMedia que receba um número variável de parâmetros de tipo ponto flutuante e retorne a média aritmética desses valores.
 
 Construa uma função verificaParidade que receba um inteiro e retorne se o número é par ou ímpar.
