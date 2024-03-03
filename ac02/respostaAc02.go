@@ -46,7 +46,7 @@ func main() {
 
 
 // Questão 03
-////Cria um ponto no plano cartesiano com coordenadas X e Y que calcula a distância desse ponto até a origem (0,0).
+//Cria um ponto no plano cartesiano com coordenadas X e Y que calcula a distância desse ponto até a origem (0,0).
 
 package main
 
